@@ -9,6 +9,7 @@ pluginManagement {
         id "org.jetbrains.kotlin.android" version "1.9.0"
     }
 }
+
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -16,5 +17,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "SMSYard3"
+
+rootProject.name = "SMSYard"
 include(":app")
