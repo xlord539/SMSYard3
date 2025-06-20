@@ -12,5 +12,3 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "SMSYard"
-include ':app'
